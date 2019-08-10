@@ -1,0 +1,24 @@
+{
+  "name": "node-geetest-solver",
+  "version": "1.0.0",
+  "description": "Solving Geetest Slider in selenium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1tD0g/node-geetest-solver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1tD0g/node-geetest-solver/issues"
+  },
+  "homepage": "https://github.com/1tD0g/node-geetest-solver#readme",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
