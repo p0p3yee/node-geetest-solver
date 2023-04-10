@@ -19,6 +19,6 @@
   "homepage": "https://github.com/1tD0g/node-geetest-solver#readme",
   "dependencies": {
     "mz": "^2.7.0",
-    "selenium-webdriver": "^4.0.0-alpha.4"
+    "selenium-webdriver": "^4.8.2"
   }
 }
